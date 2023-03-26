@@ -1,0 +1,20 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
+    "eslint.options": {
+
+
+    },
+    "eslint.validate": [
+        "javascript",
+        "typescript",
+        "html",
+        "vue"
+    ],
+    "eslint.timeBudget.onValidation": {
+
+        "warn": 4000,
+        "error": 8000
+    }
+}
