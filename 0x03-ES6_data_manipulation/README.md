@@ -1,5 +1,1 @@
-# 0x03_data_manipulation
-
-## Data Arrays, Typed Data Arrays and maps
-
-Repo consists on how to manipulate data with typed arrays.
+# 0x03. ES6 data manipulation
